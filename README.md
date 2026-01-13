@@ -1,3 +1,4 @@
+```
 Assignment 1
   Q1 - Data Visualization
   Q2 - 
@@ -10,3 +11,4 @@ Assignemnt 2
   Q4
 
 Assignment 4 (CNN)
+```
